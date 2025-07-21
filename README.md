@@ -1,4 +1,6 @@
-:
+🛒 Amazon project:
+[project banner]
+
 
 🛒 Amazon eCommerce project overview
 This project involves working with a simulated Amazon-style eCommerce database, designed to reflect the core operations of an online marketplace. The database includes customers, products, orders, order items, and reviews — enabling real-world business analysis using SQL.
