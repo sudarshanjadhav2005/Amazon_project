@@ -1,5 +1,5 @@
 # 🛒 Amazon project:
-[project banner](https://static.vecteezy.com/system/resources/previews/010/916/011/original/online-shopping-concept-design-or-3d-online-shopping-or-shopping-promotional-design-free-png.png)
+![project banner](https://static.vecteezy.com/system/resources/previews/010/916/011/original/online-shopping-concept-design-or-3d-online-shopping-or-shopping-promotional-design-free-png.png)
 
 
 ## 🛒 Amazon eCommerce project overview
