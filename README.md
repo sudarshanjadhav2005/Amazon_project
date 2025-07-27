@@ -45,3 +45,9 @@ Analyze sales trends over time.
 Spot inactive users for re-engagement.
 
 Determine stock needs and product demand.
+
+# Amazon Project Data Queries
+
+This repository contains SQL queries and corresponding visualizations for analyzing the Amazon Project dataset.
+
+## Queries and Visualizations
