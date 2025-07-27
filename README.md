@@ -51,3 +51,7 @@ Determine stock needs and product demand.
 This repository contains SQL queries and corresponding visualizations for analyzing the Amazon Project dataset.
 
 ## Queries and Visualizations
+
+# 1.Get all customers from indonesia--
+
+(https://github.com/sudarshanjadhav2005/Amazon_project/blob/main/code_output/1.jpg)
