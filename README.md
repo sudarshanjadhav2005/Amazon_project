@@ -54,3 +54,14 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 # 1.Get all customers from indonesia--
 ![indonesia](https://github.com/sudarshanjadhav2005/Amazon_project/blob/main/code_output/1.jpg)
+# 2.List all products in the 'Electronics' category--
+![Electronic](https://github.com/sudarshanjadhav2005/Amazon_project/blob/main/code_output/2.jpg)
+# 3.Find the total number of orders--
+![total_order](https://github.com/sudarshanjadhav2005/Amazon_project/blob/main/code_output/3.jpg)
+# 4.Get top 5 most expensive products--
+![expensive_product](https://github.com/sudarshanjadhav2005/Amazon_project/blob/main/code_output/4.jpg)
+# 5.Get total sales amount per customer--
+![total_sale](https://github.com/sudarshanjadhav2005/Amazon_project/blob/main/code_output/5.jpg)
+# 6.Find the average product rating per product--
+![average_product](https://github.com/sudarshanjadhav2005/Amazon_project/blob/main/code_output/6.jpg)
+
