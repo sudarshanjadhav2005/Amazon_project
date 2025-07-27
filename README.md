@@ -53,5 +53,4 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ## Queries and Visualizations
 
 # 1.Get all customers from indonesia--
-
-![indonesia].(https://github.com/sudarshanjadhav2005/Amazon_project/blob/main/code_output/1.jpg).
+![indonesia](https://github.com/sudarshanjadhav2005/Amazon_project/blob/main/code_output/1.jpg)
